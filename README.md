@@ -1,4 +1,4 @@
-# Coursera_capstone
+# Coursera_capstone week 4 and week 5
 This repository contains the applied datastone capstone project for IBM through Coursera.
 It consist of only week 4 and week 5 assignments.
 
